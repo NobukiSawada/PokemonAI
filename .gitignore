@@ -1,1 +1,17 @@
 docs
+
+# external / cloned repos
+showdown/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+
+# model artifacts
+*.pth
+*.zip
+checkpoints/
